@@ -1,4 +1,4 @@
-# Web Time Tracker (Chrome Extension)
+# Browsing Activity Tracker (Chrome Extension)
 ### Description
 This is a chrome extension that will track what domains a user is visiting and the time he/she spent on respective domains. Users can find it very helpful to analyze and improve their web-browsing habits.
 
@@ -9,9 +9,6 @@ _This project is distributed and prepared under the guidance of Coding Club, IIT
 - It displays a badge on the extension's icon which tells time spent on that particular web page.
 > ![badge](https://user-images.githubusercontent.com/49431756/110208954-e74ea680-7eaf-11eb-9e11-5f056820b201.png)
 
-- User can see the current Date and Time by just clicking on the extension icon.
-
-> ![date-time](https://user-images.githubusercontent.com/49431756/110208957-e9b10080-7eaf-11eb-9446-ff30eaf338c7.png)
 
 
 - On clicking on the icon you can see your browsing history of the present-day with time spent on the respective domains.
